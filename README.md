@@ -1,2 +1,2 @@
 # Angular
-Added all file and project of aangular
+Added all file and project of angular
